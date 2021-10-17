@@ -8,7 +8,7 @@ Download the source files and go to _"assets/game.js"_. Here you have the game f
 
 In Shovel you will have a loop script, you will draw and configure your objects in there.
 
-# Scene
+# Game Configuration
 
 ### Game Name
 
