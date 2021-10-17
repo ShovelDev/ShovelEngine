@@ -30,6 +30,30 @@ _var ObjName = new SHOVEL.object(x, y, width, height, "color")_
 
 _ObjName.setup()_
 
+#### Object Values
+
+#### all values are object variables so they can be edited like a variable
+
+##### x
+
+_ObjName.x_ returns the x position of an object
+
+##### y
+
+_ObjName.y_ returns the y position of an object
+
+##### width
+
+_ObjName.width_ returns the width of an object
+
+##### height
+
+_ObjName.height returns the height of an object
+
+##### color
+
+_ObjName.color returns the color of an object
+
 #### Collision of two objects
 
 Inside the loop you should create an _"if"_ and in the if condition you will put _"ObjName.is.colliding(OtherObj)"_ and in the execution of the if put the action when the objects collide.
@@ -44,6 +68,6 @@ _SHOVEL.draw.line(x, y, x1, x2, "color", width)_
 
 ### Mouse
 
-_SHOVEL.get.mouseX_ - return the mouse x position
+_SHOVEL.get.mouseX_ - returns the x mouse position
 
-_SHOVEL.get.mouseY_ - return the mouse y position
+_SHOVEL.get.mouseY_ - returns the y mouse position
