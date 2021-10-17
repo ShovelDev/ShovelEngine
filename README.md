@@ -44,6 +44,6 @@ _SHOVEL.draw.line(x, y, x1, x2, "color", width)_
 
 ### Mouse
 
-_SHOVEL.get.mouseX_  - eturn the mouse x position
+_SHOVEL.get.mouseX_ - return the mouse x position
 
 _SHOVEL.get.mouseY_ - return the mouse y position
