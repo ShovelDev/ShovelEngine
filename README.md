@@ -34,25 +34,25 @@ _ObjName.setup()_
 
 #### all values are object variables so they can be edited like a variable
 
-##### x
+##### *x*
 
 _ObjName.x_ returns the x position of an object
 
-##### y
+##### *y*
 
 _ObjName.y_ returns the y position of an object
 
-##### width
+##### *width*
 
 _ObjName.width_ returns the width of an object
 
-##### height
+##### *height*
 
-_ObjName.height returns the height of an object
+_ObjName.height_ returns the height of an object
 
-##### color
+##### *color*
 
-_ObjName.color returns the color of an object
+_ObjName.color_ returns the color of an object
 
 #### Collision of two objects
 
